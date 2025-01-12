@@ -2,4 +2,5 @@
 *.csv
 *.parquet
 
-./ny_taxi_postgres_data
+#ignore this file path since git doesn't have permission to it
+/ny_taxi_postgres_data
