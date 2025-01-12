@@ -1,0 +1,5 @@
+#ignore data files like csv and parquet
+*.csv
+*.parquet
+
+./ny_taxi_postgres_data
